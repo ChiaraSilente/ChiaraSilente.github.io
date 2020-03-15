@@ -1,7 +1,7 @@
 # Site settings
-title: 卡亚拉星 | L'astro di Chiara
+title: L'astro di Chiara
 SEOTitle: 卡亚拉星 | L'astro di Chiara
-header-img: img/post-bg-desk.jpg
+header-img: img/ChiaraPlanet.jpg
 email: huangxinyi8864@gmail.com
 description: "这样的笃定是美丽的 / 但变化无常更是美丽。"
 keyword: "ApoChia, 摸鱼, 杂记, ChiaraSilente"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/ChiaraSilente/ChiaraSilente.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Who stole the soul from the sun / and the world come undone at the seams?"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/IMG_1385.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
